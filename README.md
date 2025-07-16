@@ -4,7 +4,7 @@
 🎓 Final Year Electrical Engineering Student at NUST  
 🤖 Passionate about Robotics, Embedded Systems & AI  
 🔬 Worked on a SLAM-based Interactive Robot for Final Year Project  
-🌱 Learning: ROS2, Viam SDK, Python, and AI integration  
+🌱 Learning: ROS2, Python, and AI integration  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/khadeeja-khan/) | khadeeja373khan@gmail.com
 
 
